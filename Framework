@@ -1,0 +1,26 @@
+O que é framework?
+
+O framework é um pacote de códigos prontos que podem ser utilizados no desenvolvimento de sites.
+A proposta de uso dessa ferramenta é aplicar funcionalidades, comandos e estruturas 
+já prontas para garantir qualidade no projeto e produtividade.
+=================================
+Vantagens de usar framework:
+Redução de tempo. Uma das principais vantagens é a agilidade e economia do tempo.
+Segurança.
+Padrões de legibilidade.
+Problemas de configuração. 
+Dependência.
+Códigos desnecessários.
+=================================
+Desvantagens de usar framework:
+Causa dependência
+Dificuldade em configurar
+Mais códigos que o necessário
+=================================
+Exemplos JavaScript:
+-Bootstrap
+-AngularJS
+-JSF
+-Hibernate
+-Ember.JS
+-Spring
